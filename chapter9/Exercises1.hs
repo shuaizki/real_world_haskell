@@ -1,0 +1,4 @@
+--1.modify to allow control order of entries in a dir
+--2.modify to control order of traversal
+--3.write a combinator library
+--to tired to write, just finish reading chapter 9
