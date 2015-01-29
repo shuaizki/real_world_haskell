@@ -11,6 +11,7 @@ import Control.Arrow (second)
 
 --parsestate stands for the parsing phase now
 --and how to store a segmentInfo
+--can use applicative to reconstruct
 
 --didn't check error here
 readVInt :: Handle -> IO Int
